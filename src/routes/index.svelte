@@ -2,7 +2,6 @@
   import Title from "$lib/title.svelte";
 </script>
 
-<Title></Title>
 <div class="index">
   <p>
     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo, ad. Rerum
