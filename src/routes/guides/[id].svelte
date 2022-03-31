@@ -13,8 +13,8 @@
     }
 
     return {
-      status: res.status,
-      error: new Error("Could not fetch the guides."),
+      status: 301,
+      redirect: '/guides'
     };
   }
 </script>
