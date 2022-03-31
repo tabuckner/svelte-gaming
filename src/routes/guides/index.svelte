@@ -27,7 +27,7 @@
   <ul>
     {#each guides as guide}
       <li>
-        <a href="/{guide.id}">{guide.title}</a>
+        <a href="/guides/{guide.id}">{guide.title}</a>
       </li>
     {/each}
   </ul>
